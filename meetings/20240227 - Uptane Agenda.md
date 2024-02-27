@@ -1,9 +1,10 @@
-Agenda for Uptane Standards Committee meeting Feb. 27, 2024
+# Agenda for Uptane Standards Committee meeting Feb. 27, 2024
 
-Meeting link: https://nyu.zoom.us/j/92686410221
-
+### Meeting link:
+https://nyu.zoom.us/j/92686410221
 Time: 10:00 a.m. – 11:00 a.m. EST (UTC-05:00)
 
+### Agenda
 * Roll Call: Review who is on the call and their company/organization (10:00-10:05)
 * Discuss and ratify nominations for Chair and Vice-chair (10:05-10:15)
   * Nominations thread: https://github.com/uptane/community/issues/3
